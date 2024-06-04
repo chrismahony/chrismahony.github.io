@@ -4,13 +4,7 @@ navbar:
   left:
     - text: "About Me"
       href: index.Rmd
-    - text: "Ongoing Projects"
-      href: about.Rmd
-    - text: "Publications"
-      href: publications.Rmd
-    - text: "Contact"
-      href: contact.Rmd
-      
+     
     
   right: 
   - icon: fa-envelope fa-lg
