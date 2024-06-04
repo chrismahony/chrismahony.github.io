@@ -1,0 +1,47 @@
+---
+title: "Ongoing work:"
+---
+
+<br>
+
+**Multiomic analysis of synovial fibroblasts**
+
+<img src="~/my_website/Fig1_website.jpg" style="width:100%">
+
+
+Ongoing projects include:
+
+-Identification of transcriptional regulators of pathogenic behaviour in synovial fibroblasts
+
+-Map inflammatroy associated gene modules to different scRNAseq data sets
+
+-Define early biomarkers of persistent inflamation
+
+<br>
+
+<br>
+
+**Spatial mapping of inflammed peadiatric synovium**
+
+<img src="~/my_website/Figure2_web.jpg" style="width:50%">
+
+Ongoing projects include:
+
+-Refining nearest neighbor niche clustering
+
+-Mapping single cell subsets to their spatial locations
+
+<br>
+
+<br>
+
+
+**Spatial zonation of inflammed synovium**
+
+<img src="~/my_website/Fig3_web.jpg" style="width:100%">
+
+Ongoing projects include:
+
+-defining changing spatial niches in inflammatory arthritis
+
+
