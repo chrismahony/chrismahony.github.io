@@ -3,15 +3,7 @@ navbar:
   title: "Dr Chris Mahony"
   left:
     - text: "About Me"
-      href: index.Rmd
-     
-    
-  right: 
-  - icon: fa-envelope fa-lg
-  href: mailto:<c.mahony@bham.ac.uk>
+      href: index.html
 
-output:
-  html_document:
-    theme: flatly
   
   
