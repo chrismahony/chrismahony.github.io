@@ -3,13 +3,13 @@ navbar:
   title: "Dr Chris Mahony"
   left:
     - text: "About Me"
-      href: index.html
+      href: index.Rmd
     - text: "Ongoing Projects"
-      href: about.html
+      href: about.Rmd
     - text: "Publications"
-      href: publications.html
+      href: publications.Rmd
     - text: "Contact"
-      href: contact.html
+      href: contact.Rmd
       
     
   right: 
@@ -19,6 +19,5 @@ navbar:
 output:
   html_document:
     theme: flatly
-    include:
-    after_body: my_footer.html
+  
   
