@@ -11,5 +11,5 @@ I am an experienced scientist at the University of Birmingham (UK). I have gaine
 
 <br>
 
-<img src="~/my_website/ht_web.jpg" style="width:35%"> <img src="~/my_website/ht_web.jpg" style="width:35%"> <img src="~/my_website/mountain.jpg" style="width:25%">
+
 
