@@ -2,14 +2,7 @@
 title: "Dr Chris Mahony PhD"
 ---
 
-
-<br>
-
-<br>
-
-I am an experienced scientist at the University of Birmingham (UK). I have gained postdoctoral experience in functional genomics, molecular biology, bioinformatics and spatial transcriptomics to unravel the complexities of inflammatory diseases. My current work focuses on uncovering novel transcriptional regulators of synovial firboblast pathogenicity in the context of Rheumatoid arthritis along with mapping the inflamed joint in JIA. This work relies developing single cell analysis methods along with spatial transcriptomics and multiplex imaging to highlight novel biomarkers and therapeutic tagrets that are functionally validated using a range of molecular biology approaches. I also love mountains and snow!
-
-<br>
+hi
 
 
 
