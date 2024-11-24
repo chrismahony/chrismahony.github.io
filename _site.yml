@@ -1,0 +1,24 @@
+name: "Dr Chris Mahony, PhD"
+navbar:
+  title: "Dr Chris Mahony"
+  left:
+    - text: "About Me"
+      href: index.html
+    - text: "Ongoing Projects"
+      href: about.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Contact"
+      href: contact.html
+      
+    
+  right: 
+  - icon: fa-envelope fa-lg
+  href: mailto:<c.mahony@bham.ac.uk>
+
+output:
+  html_document:
+    theme: flatly
+    include:
+    after_body: my_footer.html
+  
